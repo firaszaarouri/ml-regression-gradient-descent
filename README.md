@@ -314,6 +314,6 @@ This project was developed as part of the **Advanced Python & Machine Learning**
 
 ## Author
 
-**Firas Zaarouri** — MSc Data Analytics, Cranfield University
+**Firas Zaarouri** — MSc Data Analytics, MEng General Engineering, 
 PhD Candidate, LIP6 Sorbonne Université (NPA Team)
 [github.com/firaszaarouri](https://github.com/firaszaarouri)
